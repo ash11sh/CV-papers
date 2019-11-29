@@ -1,4 +1,4 @@
-# CV-papers
+# CV-papers ( ᵔ ᴗ ᵔ )✌
 Survey papers to follow in the Computer Vision area included  object detection, image segmentation, object tracking, super resolution
 
 
